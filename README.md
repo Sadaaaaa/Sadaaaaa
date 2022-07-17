@@ -30,7 +30,8 @@
 <!-- TODO-IST:START -->
 * [x] Java
 * [x] Spring Framework
+* [x] HTML/CSS
 * [x] JavaScript
-* [x] Git
 * [x] PostgreSQL  
+* [x] Git
 <!-- TODO-IST:END -->
