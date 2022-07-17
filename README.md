@@ -29,8 +29,8 @@
 🚧 **Languages and Tools:**  
 <!-- TODO-IST:START -->
 * [x] Java
-* [ ] Spring Framework
-* [ ] JavaScript
+* [x] Spring Framework
+* [x] JavaScript
 * [x] Git
-* [ ] PostgreSQL  
+* [x] PostgreSQL  
 <!-- TODO-IST:END -->
