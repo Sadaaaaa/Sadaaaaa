@@ -1,5 +1,11 @@
 ### Hello everyone!
 
+I'm Sergey and I'm backend developer. 
+You can find my LinkedIn profile via the link below.
+
+Currently, I'm improve my skills in Java and Spring Framework. Welcome to my repoitory.
+
+
 <br />
 
 <a href="https://vk.com/sadaa">
@@ -30,8 +36,9 @@
 <!-- TODO-IST:START -->
 * [x] Java
 * [x] Spring Framework
+* [x] Maven  
+* [x] PostgreSQL
+* [x] Docker
 * [x] HTML/CSS
 * [x] JavaScript
-* [x] PostgreSQL  
-* [x] Git
 <!-- TODO-IST:END -->
