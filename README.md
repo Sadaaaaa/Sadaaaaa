@@ -1,10 +1,12 @@
 ### Hello everyone!
 
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45097739/198072404-249e1911-908d-492f-869a-408f6c9c8fe5.png?raw=true" width="240" height="440" />
+
 I'm Sergey and I'm backend developer. 
 You can find my LinkedIn profile via the link below.
 
 Currently, I'm improve my skills in Java and Spring Framework. Welcome to my repoitory.
-
 
 <br />
 
@@ -25,12 +27,13 @@ Currently, I'm improve my skills in Java and Spring Framework. Welcome to my rep
 </a>
 
 <br />
-
-<img align="right" alt="GIF" src="https://github.com/Sadaaaaa/Sadaaaaa/blob/main/Kak-ustanovit-Java-s-apt-na-Ubuntu-18.04.jpg?raw=true" width="400" height="280" />
+<br />
   
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+
+<br/>
 
 🚧 **Languages and Tools:**  
 <!-- TODO-IST:START -->
