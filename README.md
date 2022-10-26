@@ -1,7 +1,7 @@
 ### Hello everyone!
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45097739/198072404-249e1911-908d-492f-869a-408f6c9c8fe5.png?raw=true" width="240" height="440" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45097739/198072404-249e1911-908d-492f-869a-408f6c9c8fe5.png?raw=true" width="216" height="396" />
 
 I'm Sergey and I'm backend developer. 
 You can find my LinkedIn profile via the link below.
