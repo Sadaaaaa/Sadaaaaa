@@ -6,7 +6,7 @@
 I'm Sergey and I'm backend developer. 
 You can find my LinkedIn profile via the link below.
 
-Currently, I'm improve my skills in Java and Spring Framework. Welcome to my repoitory.
+Currently, I'm improve my skills in Java and Spring Framework. Welcome to my repository.
 
 <br />
 
