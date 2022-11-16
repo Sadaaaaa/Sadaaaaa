@@ -16,7 +16,7 @@ Currently, I'm improve my skills in Java and Spring Framework. Welcome to my rep
 <a href="https://twitter.com/DontFuckMyMind">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sergey-mochalin-67020b67/">
+<a href="https://www.linkedin.com/in/sergeymochalin/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/sadopwnz">
